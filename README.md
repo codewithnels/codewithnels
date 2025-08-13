@@ -1,26 +1,26 @@
-# 👋 ¡Hola! Soy Nelson (codewithnels)
+# 👋 ¡Hola! Soy Nelson
+
+### 🚀 Desarrollador Full Stack | APIs y Automatización
 
 💻 Desarrollador web apasionado por crear aplicaciones modernas y funcionales.  
-🚀 Actualmente aprendiendo y mejorando en **JavaScript, React, Node.js** y **Python**.  
-🌱 Apasionado por **Inteligencia Artificial** y automatizaciones.
+🚀 Actualmente trabajando con techs en **Java, Springboot**, **JavaScript, React, Node.js** y **Python**.  
+🌱 Especializándome en arquitecturas serverless y aprendiendo **Deep Learning** y automatizaciones.
+⚡ Dato curioso: Me fascina optimizar procesos con código.
 
 ---
 
 ## 🛠 Tecnologías que uso
-- **Frontend:** HTML, CSS, JavaScript, React, TailwindCSS
-- **Backend:** Node.js, Express, Python
-- **Base de datos:** MySQL, MongoDB
-- **Herramientas:** Git, GitHub, VSCode, Postman
-
----
-
-## 📌 Proyectos destacados
-- [CRM CRUD](https://github.com/codewithnels/CRM-CRUD) – Gestión de clientes con API REST.
-- [Cotizador de Préstamos](https://github.com/codewithnels/cotizadorPrestamos) – Simulador de préstamos en tiempo real.
-- [Agencia de Viajes](https://github.com/codewithnels/agenciaViajes) – Sitio web completo para agencia.
+- **Frontend:** HTML, CSS, JavaScript, React, TailwindCSS, Angular.
+- **Backend:** Node.js, Express, Python, Java, Springboot.
+- **Base de datos:** MySQL, MongoDB, Oracle, PostgreSQL.
+- **Herramientas:** Git, GitHub, VSCode, Postman, Bitbucket, Jira. 
 
 ---
 
 ## 📫 Cómo contactarme
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](tu_linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelsonalarconcahuana)
+
+---
+
+## 📊 GitHub Stats
+![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithnels&layout=compact&hide=python,visual+basic&theme=github_dark&border_color=30363d)
